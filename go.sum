@@ -13,8 +13,8 @@ github.com/cncf/xds/go v0.0.0-20211001041855-01bcc9b48dfe/go.mod h1:eXthEFrGJvWH
 github.com/cncf/xds/go v0.0.0-20211011173535-cb28da3451f1/go.mod h1:eXthEFrGJvWHgFFCl3hGmgk+/aYT6PnTQLykKQRLhEs=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/devexps/go-micro/transport/sse/v2 v2.0.0-20230823132135-27ba0739d0d2 h1:KxlJc6b/nmhldgtC4b02gex2XLV2lL2AozxxamIg75o=
-github.com/devexps/go-micro/transport/sse/v2 v2.0.0-20230823132135-27ba0739d0d2/go.mod h1:2Vz0ftV3dsrVC/g9e1MsqXagayRMFrK8LzEy7JT2mv4=
+github.com/devexps/go-micro/transport/sse/v2 v2.0.0-20230823141955-592ceec63322 h1:tbTCmwCjGgnV5g+wAIRKriH2v9Db8XsnQ0KrevRNDj8=
+github.com/devexps/go-micro/transport/sse/v2 v2.0.0-20230823141955-592ceec63322/go.mod h1:cGyzRgMGfC7GLjjuMOYc4l0cTyJcnpnhxwQ9zl0EnC8=
 github.com/devexps/go-micro/v2 v2.0.0-20230823132135-27ba0739d0d2 h1:rMJXdxmzEr1aIbs4qNKgxR8l7yCk+f5T/ssMSavmeUE=
 github.com/devexps/go-micro/v2 v2.0.0-20230823132135-27ba0739d0d2/go.mod h1:qV2ac9OzaI4dZzKD4lC90bgeLyRI+IgmZDlOmewoF4Q=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=

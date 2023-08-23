@@ -2,7 +2,7 @@ module github.com/devexps/go-sse
 
 go 1.18
 
-require github.com/devexps/go-micro/transport/sse/v2 v2.0.0-20230823132135-27ba0739d0d2
+require github.com/devexps/go-micro/transport/sse/v2 v2.0.0-20230823141955-592ceec63322
 
 require (
 	github.com/devexps/go-micro/v2 v2.0.0-20230823132135-27ba0739d0d2 // indirect
